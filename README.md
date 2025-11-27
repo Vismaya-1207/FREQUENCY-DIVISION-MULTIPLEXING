@@ -11,11 +11,11 @@ Scilab (Latest stable version)
 Signal Processing Toolbox (inbuilt functions)
 
 ## THEORY
-```
+
 Frequency Division Multiplexing is a technique in which multiple message signals are transmitted simultaneously over a communication channel by allocating different carrier frequencies to each signal. Each
 signal modulates its own carrier → modulated signals are added → transmitted together → separated at the receiver using band-pass filters or carrier synchronization.
 
-```
+
 
 ## ALGORITHM
 ```
@@ -117,8 +117,22 @@ subplot(3,2,6); plot(t,dm6); title("Recovered Signal 6");
 ```
 ## OUTPUT:
 
+<img width="749" height="685" alt="image" src="https://github.com/user-attachments/assets/04398ff4-b912-48c1-926e-54274704833c" />
+
+
+<img width="752" height="699" alt="image" src="https://github.com/user-attachments/assets/fe913e62-e18c-4302-b65d-628b8dfd164f" />
+
+
+<img width="740" height="690" alt="image" src="https://github.com/user-attachments/assets/9081bcf7-f14d-40d2-8068-2c2b1316aa12" />
+
 
 ## TABULAR COLUMN:
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/234159c9-287a-4d7a-a3f6-12570bde64cd" />
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/3d379cad-e9c0-40b2-b594-4629acf99bcc" />
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/2dcaf405-a75a-4b04-bc70-71ea2086d45f" />
 
 
 ## RESULT:
